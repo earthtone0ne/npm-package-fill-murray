@@ -1,6 +1,6 @@
 {
   "name": "@earthtone0ne/npm-package-fill-murray",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Phil Murray placeholder component",
   "main": "build/index.js",
   "scripts": {
