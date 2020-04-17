@@ -1,0 +1,15 @@
+<svg width="14px" height="8px" viewBox="0 0 14 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M25.3384834,23.7110588 L20.0001207,18.2990588 L14.6615166,23.7110588 C14.2917223,24.0856471 13.6805478,24.0974118 13.2962707,23.7371765 C12.9119935,23.3769412 12.8999245,22.7811765 13.2694775,22.4065882 L19.3039804,16.2889412 C19.485981,16.1042353 19.7374991,16 20.0001207,16 C20.2625009,16 20.514019,16.1042353 20.6960196,16.2889412 L26.7305225,22.4065882 C27.1000755,22.7811765 27.0880065,23.3769412 26.7037293,23.7371765 C26.5164183,23.9127059 26.275521,24 26.0346236,24 C25.7811745,24 25.5279668,23.9032941 25.3384834,23.7110588 Z" id="path-1"></path>
+    </defs>
+    <g id="Filter-by-Original_v02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.6-Filter-by-Sales-Rep" transform="translate(-968.000000, -155.000000)">
+            <g id="Group-2" transform="translate(955.000000, 139.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="icon_up_arrow" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
