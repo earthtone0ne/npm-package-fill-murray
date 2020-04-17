@@ -1,6 +1,6 @@
 {
   "name": "npm-package-fill-murray",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Phil Murray placeholder component",
   "main": "index.js",
   "scripts": {
