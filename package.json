@@ -1,5 +1,5 @@
 {
-  "name": "npm-package-fill-murray",
+  "name": "@earthtone0ne/npm-package-fill-murray",
   "version": "0.0.5",
   "description": "A Phil Murray placeholder component",
   "main": "build/index.js",
@@ -8,8 +8,9 @@
     "start": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "git://github.com/earthtone0ne/npm-package-fill-murray",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@earthtone0ne"
+    "registry": "https://npm.pkg.github.com"
   },
   "author": "earthtone0ne",
   "license": "ISC",
