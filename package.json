@@ -1,14 +1,14 @@
 {
-  "name": "joor-core",
+  "name": "npm-package-fill-murray",
   "version": "0.0.1",
-  "description": "Core components for JOOR",
+  "description": "A Phil Murray placeholder component",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
     "start": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "JOOE",
+  "author": "earthtone0ne",
   "license": "ISC",
   "peerDependencies": {
     "react": "^16.4.0",
@@ -21,11 +21,14 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-preset-env": "^1.7.0",
+    "babel-runtime": "^6.26.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
-    "babel-runtime": "^6.26.0"
+    "react-svg-inline": "^2.1.0",
+    "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "webpack": "^4.42.1"
   }
 }

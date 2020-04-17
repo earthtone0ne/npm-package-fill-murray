@@ -7,17 +7,23 @@ module.exports = {
     libraryTarget: 'commonjs2'
   },
   module: {
-      rules: [
-          {
-              test: /\.js$/,
+    rules: [
+      {
+        test: /\.js$/,
         include: path.resolve(__dirname, 'src'),
         exclude: /(node_modules|bower_components|build)/,
         use: {
-                  loader: 'babel-loader',
+          loader: 'babel-loader',
           options: {
-                      presets: ['env']
+            presets: ['env']
           }
         }
+      },
+      {
+        test: /\.css$/,
+        include: path.resolve(__dirname, 'src'),
+        exclude: /(node_modules|bower_components|build)/,
+        use: ['css-loader'],
       }
     ]
   },
