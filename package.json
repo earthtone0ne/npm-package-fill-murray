@@ -1,6 +1,6 @@
 {
   "name": "@earthtone0ne/npm-package-fill-murray",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "A Bill Murray placeholder component",
   "main": "build/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/earthtone0ne/npm-package-fill-murray.git"
-},
+  },
   "author": "Stephanie Marsh <npm@earthtoneone.com>",
   "license": "ISC",
   "peerDependencies": {
