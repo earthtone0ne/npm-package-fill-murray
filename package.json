@@ -8,7 +8,7 @@
     "start": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "git://github.com/earthtone0ne/npm-package-fill-murray",
+  "repository": "https://github.com/earthtone0ne/npm-package-fill-murray.git",
   "author": "earthtone0ne",
   "license": "ISC",
   "peerDependencies": {
