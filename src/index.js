@@ -2,7 +2,7 @@ import React from 'react'
 
 import './app.css'
 
-const PhilPlaceholder = ({
+const BillPlaceholder = ({
   text,
   className,
   imgHeight,
@@ -10,7 +10,7 @@ const PhilPlaceholder = ({
   altText="",
 }) => {
   const getImageSrc = () => `https://www.fillmurray.com/${imgWidth}/${imgHeight}`
-  console.log('heyyyy im phil', text, className, imgHeight)
+  console.log('heyyyy im Bill', text, className, imgHeight)
   return (
     <div className={className} >
       {text && <p>{text}</p>}
@@ -19,4 +19,4 @@ const PhilPlaceholder = ({
   )
 }
 
-export default PhilPlaceholder
+export default BillPlaceholder

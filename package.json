@@ -1,7 +1,7 @@
 {
   "name": "@earthtone0ne/npm-package-fill-murray",
   "version": "0.0.9",
-  "description": "A Phil Murray placeholder component",
+  "description": "A Bill Murray placeholder component",
   "main": "build/index.js",
   "scripts": {
     "build": "webpack",
@@ -9,9 +9,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "git://github.com/earthtone0ne/npm-package-fill-murray",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "author": "earthtone0ne",
   "license": "ISC",
   "peerDependencies": {
