@@ -10,7 +10,6 @@ const BillPlaceholder = ({
   altText="",
 }) => {
   const getImageSrc = () => `https://www.fillmurray.com/${imgWidth}/${imgHeight}`
-  console.log('heyyyy im Bill', text, className, imgHeight)
   return (
     <div className={className} >
       {text && <p>{text}</p>}

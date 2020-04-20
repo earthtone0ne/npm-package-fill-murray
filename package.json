@@ -8,8 +8,11 @@
     "start": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/earthtone0ne/npm-package-fill-murray.git",
-  "author": "earthtone0ne",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/earthtone0ne/npm-package-fill-murray.git"
+},
+  "author": "Stephanie Marsh <npm@earthtoneone.com>",
   "license": "ISC",
   "peerDependencies": {
     "react": "^16.4.0",
