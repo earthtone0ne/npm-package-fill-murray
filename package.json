@@ -1,5 +1,5 @@
 {
-  "name": "npm-package-fill-murray",
+  "name": "@earthtoneone/npm-package-fill-murray",
   "version": "0.0.17",
   "description": "A Bill Murray placeholder component",
   "main": "build/index.js",
