@@ -1,7 +1,7 @@
 # npm-package-fill-murray
 POC for creating an npm package from a React component
 
-Provides a `<PhilPlaceholder />` component with the following props:
+Provides a `<BillPlaceholder />` component with the following props:
 
 ```
   text // optional text preceding the placeholder image 
@@ -15,15 +15,15 @@ Example:
 
 ```
 import React from 'react'
-import PhilPlaceholder from 'npm-package-fill-murray'
+import BillPlaceholder from 'npm-package-fill-murray'
 
 const MyPlaceholderWrapper = ({height, width}) => (
-    <PhilPlaceholder 
-        text="Hi, this is a picture of Phil Murray!"
-        className="phil-image"
+    <BillPlaceholder 
+        text="Hi, this is a picture of Bill Murray!"
+        className="bill-image"
         imgHeight={height}
         imgWidth={width}
-        altText="Phil Murray for some reason"
+        altText="Bill Murray for some reason"
     />
 )
 export default MyPlaceholderWrapper
